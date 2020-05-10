@@ -19,7 +19,7 @@ Without too much talking, let's get started!
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [What's Covered?](#what's-covered?)
+- [What's Covered?](#what's-covered)
 - [What I Knew Going In](#what-i-knew-going-in)
 
 * [Week 1](#week-1---git)
