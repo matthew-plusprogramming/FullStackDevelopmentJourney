@@ -352,3 +352,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/vue,c++,node,mean,vuejs,react,linux,macos,angular,windows,visualstudiocode
+
+*_rsa
+rsa/
