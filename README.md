@@ -1,17 +1,19 @@
-# TenWeekCodeChallenge
-### A ten week journey which took me from a jack of all trades to Full Stack Developer
+# Full Stack Development Journey
+### A journey which took me from a jack of all trades to Full Stack Developer
 
 ## Introduction
-This is my personal ten week code challenge (currently ongoing) for going from a
-basic Full Stack Web & C++ Developer to a full-fledged Full Stack Developer.
-Over the last few years, I have been learning C++ & Web Development and have
-gotten to a point where my learning has more or less stagnated, while I have
-hardly learned all there is to know about either.
+This is my personal journey/guide for going from a basic Full Stack Web & C++
+Developer to a full-fledged Full Stack Developer. Over the last few years, I
+have been learning C++ & Web Development and have gotten to a point where my
+learning has more or less stagnated, while I have hardly learned all there is to
+know about either.
 
-For the challenge, I compiled a list of ten technologies that are important to
-Full Stack development. This Github repo was created in part to document my
-journey of learning these 10 but was also created for anyone who wants to follow
-along with the same tutorials and projects that I made.
+This Github repo was created in part to document my journey of learning but was
+also created for anyone who wants to follow along with the same tutorials and
+projects that I did.
+
+*Note that this is just my personal journey of "filling in the blanks" of
+knowledge that I didn't have previously*
 
 Without too much talking, let's get started!
 
@@ -27,21 +29,57 @@ Without too much talking, let's get started!
 ---
 
 ## What's Covered?
-### The Focuses
-- Week 1 - Git
-- Week 2 - HTML & CSS
-- Week 3 - Angular
-- Week 4 - React
-- Week 5 - Vue
-- Week 6 - MEAN
-- Week 7 - C++11
-- Week 8 - C++14
-- Week 9 - C++17
-- Week 10 - C++20
-### Throughout The Challenge & Beyond
-- Learning to properly use my editor - VSCode
-- Cool tool - CMake
+*Web portion is based off of [Web Developer Roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)*
 
+- Topic 1 - Git Basics
+- Topic 2 - Intro to The Front End
+  - Modern HTML
+    - Forms
+    - HTML5 Elements
+    - Radio Buttons
+    - Checkboxes
+  - Basics of CSS
+    - Floats
+    - Positioning
+    - Display
+    - Box Model
+    - CSS Grid
+    - Flex Box
+    - Media Queries
+- Topic 3 - JS Frameworks
+  - Angular
+    - RxJS
+    - NgRx
+  - React
+    - Redux
+  - Vue
+    - VueX
+- Topic 4 - Modern CSS
+  - Styled Components
+  - CSS Modules
+  - Styled JSX
+  - Emotion
+- Topic 5 - Misc Front End
+  - Sass
+  - Webpack
+  - Npm Scripts
+  - SSR
+  - Next.js
+  - GraphQL
+- Topic 6 - General Back End
+  - Database Knowledge
+  - OAuth
+  - Token Authentication
+  - REST APIs
+  - Express
+  - Nginx
+- Topic 7 - C++11
+- Topic 8 - C++14
+- Topic 9 - C++17
+- Topic 10 - C++20
+- Topic 11 - Misc
+  - Learning (how to properly use) VSCode
+  - CMake
 ---
 
 ## What I Knew Going In
@@ -53,4 +91,15 @@ fundamentals of C/C++.
 
 ---
 
-## Week 1 - Git
+## Topic 1 - Git Basics
+### Resources I used:
+- [Learn Git In 15 Minutes by Colt Steele](https://www.youtube.com/watch?v=USjZcfj8yxE&feature=youtu.be)
+- [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
+- [GitHub Pull Request in 100 Seconds](https://www.youtube.com/watch?v=8lGpZkjnkt4)
+- [Git it? How to use Git and GitHub](https://www.youtube.com/watch?v=HkdAHXoRtos)
+
+### Learn Git In 15 Minutes by Colt Steele
+
+## Topic 2 - Intro to The Front End
+### Resources I used:
+- [Free Code Camp](https://www.freecodecamp.org/learn)
