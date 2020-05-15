@@ -73,11 +73,14 @@ Without too much talking, let's get started!
   - REST APIs
   - Express
   - Nginx
-- Topic 7 - C++11
-- Topic 8 - C++14
-- Topic 9 - C++17
-- Topic 10 - C++20
-- Topic 11 - Misc
+- Topic 7 - Apps
+  - React Native
+  - Flutter
+- Topic 8 - C++11
+- Topic 9 - C++14
+- Topic 10 - C++17
+- Topic 11 - C++20
+- Topic 12 - Misc
   - Learning (how to properly use) VSCode
   - CMake
 ---
@@ -97,9 +100,22 @@ fundamentals of C/C++.
 - [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
 - [GitHub Pull Request in 100 Seconds](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 - [Git it? How to use Git and GitHub](https://www.youtube.com/watch?v=HkdAHXoRtos)
+### General Notes:
 
-### Learn Git In 15 Minutes by Colt Steele
 
 ## Topic 2 - Intro to The Front End
 ### Resources I used:
 - [Free Code Camp](https://www.freecodecamp.org/learn)
+- [Free Code Camp - HTML5, CSS3 Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc)
+### HTML notes:
+- ### Good practice
+  - Instead of setting an image size in the HTML, you should downsize the image when applicable to make it faster to load
+- ### Cool new insights
+  - \<sup> and \<sub> elements are for super and subscripting text
+### CSS Notes:
+
+
+## Topic 3 - JS Frameworks
+### Resources I used:
+- [Scrimba - Learn React for Free](https://scrimba.com/course/glearnreact)
+### React notes:
