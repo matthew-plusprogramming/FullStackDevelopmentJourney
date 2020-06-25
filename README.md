@@ -145,7 +145,7 @@ fundamentals of C/C++.
 
 ### Projects:
 
-- matthewlin.dev - Redesign of my portfolio website in React!
+- [matthewlin.dev](https://matthewlin.dev) - Redesign of my portfolio website in React!
 
 ## Topic 7 - Apps
 
