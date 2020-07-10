@@ -27,7 +27,10 @@ Without too much talking, let's get started!
 - [What's Covered?](#whats-covered)
 - [What I Knew Going In](#what-i-knew-going-in)
 
-* [Week 1](#week-1---git)
+* [Topic 1 - Git Basics](#topic-1---git-basics)
+* [Topic 2 - Intro to The Front End](#topic-2---intro-to-the-front-end)
+* [Topic 3 - JS Frameworks](#topic-3---js-frameworks)
+* [Topic 7 - Apps](#topic-7---apps)
 
 ---
 
