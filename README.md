@@ -1,6 +1,6 @@
 # Full Stack Development Journey
 
-### A journey which took me from a Mediocre to Full Stack Developer
+### My personal developer learning roadmap
 
 ## Introduction
 
