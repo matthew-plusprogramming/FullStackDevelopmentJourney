@@ -4,13 +4,12 @@
 
 ## Introduction
 
-This is my personal journey/guide for going from a basic Full Stack Web & C++
-Developer to a full-fledged Full Stack Developer. Over the last few years, I
+This is a log of my personal journey of growing as a developer. Over the last few years, I
 have been learning C++ & Web Development and have gotten to a point where my
 learning has more or less stagnated, while I have hardly learned all there is to
 know about either.
 
-This Github repo was created in part to document my journey of learning but was
+This Github repo was created mostly to document my journey of learning but was
 also created for anyone who wants to follow along with the same tutorials and
 projects that I did.
 
