@@ -40,38 +40,24 @@ _Web portion is based off of [Web Developer Roadmap 2020](https://github.com/kam
 - Topic 1 - Git Basics
 - Topic 2 - Intro to The Front End
   - Modern HTML
-    - Forms
-    - HTML5 Elements
-    - Radio Buttons
-    - Checkboxes
   - Basics of CSS
-    - Floats
     - Positioning
     - Display
-    - Box Model
     - CSS Grid
     - Flex Box
     - Media Queries
     - Variables
 - Topic 3 - JS Frameworks
-  - Angular
-    - RxJS
-    - NgRx
   - React
-    - Redux
     - Context
-  - Vue
-    - VueX
+  - Svelte
 - Topic 4 - Modern CSS
   - Styled Components
   - CSS Modules
   - Styled JSX
-  - Emotion
 - Topic 5 - Misc Front End
   - Sass
   - Webpack
-  - Npm Scripts
-  - SSR
   - Next.js
   - GraphQL
 - Topic 6 - General Back End
@@ -80,16 +66,15 @@ _Web portion is based off of [Web Developer Roadmap 2020](https://github.com/kam
   - Token Authentication
   - REST APIs
   - Express
-  - Nginx
 - Topic 7 - Apps
   - React Native
   - Flutter
-- Topic 8 - C++11
-- Topic 9 - C++14
-- Topic 10 - C++17
-- Topic 11 - C++20
+- Topic 8 - Misc Languages
+  - Modern C++
+  - GoLang
 - Topic 12 - Misc
   - Learning (how to properly use) VSCode
+  - Webasm
   - CMake
 
 ---
@@ -126,17 +111,6 @@ fundamentals of C/C++.
 - [Scrimba: CSS Flexbox](https://scrimba.com/course/gflexbox)
 - [Scrimba: CSS Grid](https://scrimba.com/course/gR8PTE)
 - [Scrimba: CSS Variables](https://scrimba.com/course/gcssvariables)
-
-### Projects:
-
-### HTML notes:
-
-- ### Good practice
-  - Instead of setting an image size in the HTML, you should downsize the image when applicable to make it faster to load
-- ### New personal insights
-  - \<sup> and \<sub> elements are for super and subscripting text
-
-### CSS Notes:
 
 ## Topic 3 - JS Frameworks
 
