@@ -72,7 +72,7 @@ _Web portion is based off of [Web Developer Roadmap 2020](https://github.com/kam
 - Topic 8 - Misc Languages
   - Modern C++
   - GoLang
-- Topic 12 - Misc
+- Topic 9 - Misc
   - Learning (how to properly use) VSCode
   - Webasm
   - CMake
