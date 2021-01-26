@@ -30,6 +30,7 @@ Without too much talking, let's get started!
 * [Topic 2 - Intro to The Front End](#topic-2---intro-to-the-front-end)
 * [Topic 3 - JS Frameworks](#topic-3---js-frameworks)
 * [Topic 7 - Apps](#topic-7---apps)
+* [Topic 8 - Misc Languages](#topic-8---misc-languages)
 
 ---
 
@@ -133,3 +134,10 @@ fundamentals of C/C++.
 - [Free Code Camp: Flutter Crash Course](https://www.youtube.com/watch?v=pTJJsmejUOQ)
 - [Crating a Custom Appbar in Flutter](https://www.youtube.com/watch?v=djd9iQ8SE5s)
 - [Creating a Custom Bottom Bar Flutter](https://www.youtube.com/watch?v=id-n58eqg8Y)
+
+## Topic 8 - Misc Languages
+
+### Rust resources:
+
+- [Get Start](https://www.rust-lang.org/learn/get-started)
+- [Rust Playground](https://play.rust-lang.org/)
