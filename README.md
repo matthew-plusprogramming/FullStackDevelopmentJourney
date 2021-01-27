@@ -141,3 +141,4 @@ fundamentals of C/C++.
 
 - [Get Start](https://www.rust-lang.org/learn/get-started)
 - [Rust Playground](https://play.rust-lang.org/)
+- [Rust Guide That I Used](https://doc.rust-lang.org/book/title-page.html)
