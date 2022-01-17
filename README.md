@@ -29,8 +29,9 @@ Without too much talking, let's get started!
 * [Topic 1 - Git Basics](#topic-1---git-basics)
 * [Topic 2 - Intro to The Front End](#topic-2---intro-to-the-front-end)
 * [Topic 3 - JS Frameworks](#topic-3---js-frameworks)
+* [Topic 5 - Misc Front End](#topic-5---misc-front-end)
 * [Topic 7 - Apps](#topic-7---apps)
-* [Topic 8 - Misc Languages](#topic-8---misc-languages)
+* [Topic 8 - Other Languages](#topic-8---other-languages)
 
 ---
 
