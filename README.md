@@ -70,10 +70,12 @@ _Web portion is based off of [Web Developer Roadmap 2020](https://github.com/kam
 - Topic 7 - Apps
   - React Native
   - Flutter
-- Topic 8 - Misc Languages
+- Topic 8 - Other Languages
   - Modern C++
   - GoLang
   - Rust
+  - Elixir
+  - Kotlin
 - Topic 9 - Misc
   - Learning (how to properly use) VSCode
   - Webasm
