@@ -137,7 +137,7 @@ fundamentals of C/C++.
 - [Crating a Custom Appbar in Flutter](https://www.youtube.com/watch?v=djd9iQ8SE5s)
 - [Creating a Custom Bottom Bar Flutter](https://www.youtube.com/watch?v=id-n58eqg8Y)
 
-## Topic 8 - Misc Languages
+## Topic 8 - Other Languages
 
 ### Rust resources:
 
