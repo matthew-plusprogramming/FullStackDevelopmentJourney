@@ -94,20 +94,14 @@ fundamentals of C/C++.
 ---
 
 ## Topic 1 - Git Basics
-
 ### Resources I used:
-
 - [Learn Git In 15 Minutes by Colt Steele](https://www.youtube.com/watch?v=USjZcfj8yxE&feature=youtu.be)
 - [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
 - [GitHub Pull Request in 100 Seconds](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 - [Git it? How to use Git and GitHub](https://www.youtube.com/watch?v=HkdAHXoRtos)
 
-### General Notes:
-
 ## Topic 2 - Intro to The Front End
-
 ### Resources I used:
-
 - [Free Code Camp](https://www.freecodecamp.org/learn)
 - [Free Code Camp - HTML5, CSS3 Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc)
 - [CSS Media Queries](https://www.youtube.com/watch?v=2KL-z9A56SQ)
@@ -117,20 +111,15 @@ fundamentals of C/C++.
 - [Scrimba: CSS Variables](https://scrimba.com/course/gcssvariables)
 
 ## Topic 3 - JS Frameworks
-
 ### Resources I used:
-
 - [Scrimba: Learn React for Free](https://scrimba.com/course/glearnreact)
 - [Deploying A React App on Netlify](https://www.youtube.com/watch?v=lCcBEDPTk4o)
 
 ### Projects:
-
 - [matthewlin.dev](https://matthewlin.dev) - Redesign of my portfolio website in React!
 
 ## Topic 5 - Misc Front End
-
 ### Resources I used:
-
 - [TypeGraphQL tutorial by Benawad](https://www.youtube.com/playlist?list=PLN3n1USn4xlma1bBu3Tloe4NyYn9Ko8Gs)
 - [Testing GQL Apis](https://thenewstack.io/automatic-testing-for-graphql-apis/)
 - [GQL Security](https://www.apollographql.com/blog/graphql/security/9-ways-to-secure-your-graphql-api-security-checklist/)
@@ -139,9 +128,7 @@ fundamentals of C/C++.
 - [Verifying User Emails: GQL](https://stackoverflow.com/questions/55530949/how-to-verify-user-email-while-using-graphql-and-node-js)
 
 ## Topic 7 - Apps
-
 ### Resources I used:
-
 - [React Crash Course](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
 - [Mistakes in React Native](https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9)
 - [Free Code Camp: Flutter Crash Course](https://www.youtube.com/watch?v=pTJJsmejUOQ)
@@ -149,9 +136,7 @@ fundamentals of C/C++.
 - [Creating a Custom Bottom Bar Flutter](https://www.youtube.com/watch?v=id-n58eqg8Y)
 
 ## Topic 8 - Other Languages
-
 ### Rust resources:
-
 - [Get Start](https://www.rust-lang.org/learn/get-started)
 - [Rust Playground](https://play.rust-lang.org/)
 - [Rust Guide That I Used](https://doc.rust-lang.org/book/title-page.html)
