@@ -127,6 +127,17 @@ fundamentals of C/C++.
 
 - [matthewlin.dev](https://matthewlin.dev) - Redesign of my portfolio website in React!
 
+## Topic 5 - Misc Front End
+
+### Resources I used:
+
+- [TypeGraphQL tutorial by Benawad](https://www.youtube.com/playlist?list=PLN3n1USn4xlma1bBu3Tloe4NyYn9Ko8Gs)
+- [Testing GQL Apis](https://thenewstack.io/automatic-testing-for-graphql-apis/)
+- [GQL Security](https://www.apollographql.com/blog/graphql/security/9-ways-to-secure-your-graphql-api-security-checklist/)
+- [General NodeJS Express Tutorial](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
+- [GQL SQL Tutorial](https://www.serverless.com/blog/graphql-api-mysql-postgres-aurora)
+- [Verifying User Emails: GQL](https://stackoverflow.com/questions/55530949/how-to-verify-user-email-while-using-graphql-and-node-js)
+
 ## Topic 7 - Apps
 
 ### Resources I used:
