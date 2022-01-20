@@ -1,0 +1,17 @@
+# Resources Used:
+- https://doc.rust-lang.org/std/primitive.array.html
+- https://doc.rust-lang.org/std/primitive.str.html
+- https://doc.rust-lang.org/std/iter/struct.Map.html
+- https://doc.rust-lang.org/std/primitive.char.html#method.to_lowercase
+- https://doc.rust-lang.org/book/ch06-00-enums.html
+- https://users.rust-lang.org/t/trim-string-in-place/15809
+- https://stackoverflow.com/questions/44186660/initializing-an-array-of-strings-in-rust
+- https://stackoverflow.com/questions/27961879/why-is-using-return-as-the-last-statement-in-a-function-considered-bad-style
+- https://stackoverflow.com/questions/22118221/how-do-you-iterate-over-a-string-by-character
+- https://stackoverflow.com/questions/46290655/get-the-string-length-in-characters-in-rust
+- https://stackoverflow.com/questions/52673580/how-can-a-range-be-used-in-a-vec
+- https://stackoverflow.com/questions/35716159/what-is-the-motivation-of-rusts-tolowercase
+- https://stackoverflow.com/questions/26544542/modifying-chars-in-a-string-by-index
+- https://stackoverflow.com/questions/30154541/how-do-i-concatenate-strings
+- https://programming-idioms.org/idiom/7/iterate-over-list-indexes-and-values/415/rust
+- https://github.com/katecpp/Hangman/blob/master/hangman/src/main.rs
