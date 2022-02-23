@@ -1,0 +1,14 @@
+# Resources used:
+- http://www.craftinginterpreters.com/
+- https://github.com/julioolvr/rlox
+- https://doc.rust-lang.org/book/ch05-01-defining-structs.html
+- https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
+- https://doc.rust-lang.org/rust-by-example/mod/struct_visibility.html
+- https://doc.rust-lang.org/std/fmt/
+- https://doc.rust-lang.org/stable/reference/conditional-compilation.html
+- https://docs.rust-embedded.org/book/peripherals/singletons.html
+- https://stackoverflow.com/questions/41648339/how-to-specify-the-underlying-type-of-an-enum-in-rust
+- https://stackoverflow.com/questions/43550632/how-can-i-change-fields-of-elements-in-vectors-in-rust
+- https://stackoverflow.com/questions/28273169/how-do-i-convert-between-numeric-types-safely-and-idiomatically
+- https://stackoverflow.com/questions/43704758/how-to-idiomatically-convert-between-u32-and-usize
+- https://blog.logrocket.com/understanding-lifetimes-in-rust/
